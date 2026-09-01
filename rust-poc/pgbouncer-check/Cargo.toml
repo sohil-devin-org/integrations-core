@@ -1,0 +1,9 @@
+[package]
+name = "pgbouncer-check"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+check-framework = { path = "../check-framework" }
+postgres = "0.19"
+regex = "1"
