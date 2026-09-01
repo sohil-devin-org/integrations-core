@@ -238,6 +238,7 @@ datadog_checks_downloader = false
 datadog_checks_tests_helper = false
 ddev = false
 docs = false
+rust-poc = false
 # This is a directory that exists only in CI but need to include it to avoid tests failing in CI
 trace-captures = false
 ## Just in case __pycache__ is present in the root of the repo
